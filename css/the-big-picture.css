@@ -8,8 +8,6 @@ body {
 	margin-top: 50px;
 	margin-bottom: 50px;
 	background: none;
-  color: white;
-  font-weight: bold;
 }
 
 .full {
@@ -18,9 +16,4 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-
-a {
-  color:white;
-  text-decoration: underline;
 }

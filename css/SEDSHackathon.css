@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:400,700|Oswald');
+
+body {
+  color: white;
+  font-family: 'Dosis', sans-serif;
+}
+
+a {
+  color:white;
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: regular; /* Because Oswald looks awful when bold */
+}
+
+h1 {
+  font-size: 5.0em;
+}
+
+h6 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: regular;
+  font-size: 1.8em;
+}
+
+h5 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: regular;
+  font-size: 1.4em;
+}
