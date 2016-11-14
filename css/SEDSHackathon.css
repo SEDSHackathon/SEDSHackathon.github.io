@@ -30,3 +30,24 @@ h5 {
   font-weight: regular;
   font-size: 1.4em;
 }
+
+.sponsor {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+
+@media (min-width: 768px){ #PIEEE {
+  width: 40%;
+}
+}
+
+@media (max-width: 768px){ #PIEEE {
+  width: 80%;
+}
+}
+
+.sponsor h1{
+	font-size: 4.0em;
+	line-height: 2.0em;
+}
