@@ -37,16 +37,6 @@ h5 {
 	justify-content: center;
 }
 
-@media (min-width: 768px){ #PIEEE {
-  width: 40%;
-}
-}
-
-@media (max-width: 768px){ #PIEEE {
-  width: 80%;
-}
-}
-
 .sponsor h1{
 	font-size: 4.0em;
 	line-height: 2.0em;
